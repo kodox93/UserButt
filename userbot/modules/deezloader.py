@@ -30,8 +30,8 @@ async def _(event):
         "invalid_arl_token": "please set the required variables for this module",
         "wrong_cmd_syntax": "bruh, now i think how far should we go. please terminate my Session 🥺",
         "server_error": "We're experiencing technical difficulties.",
-        "processing": "`Downloading...`"
-		"uploading": "`Uploading...`"
+        "processing": "`Downloading...`",
+        "uploading": "`Uploading...`"
     }
 
     ARL_TOKEN = DEEZER_ARL_TOKEN
